@@ -1,1 +1,1 @@
-echo "helloworld"
+echo "code updated" > /tmp/code.txt
