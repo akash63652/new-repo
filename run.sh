@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "new code has been updated" > /tmp/akash/code.txt
+echo "new code has/have been updated" > /tmp/akash/code.txt
