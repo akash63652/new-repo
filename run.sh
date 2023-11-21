@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "very new code" > /tmp/akash/code.txt
+echo "verykdslkgslkdg s new code" > /tmp/akash/code.txt
 timedatectl >/tmp/akash/journal
