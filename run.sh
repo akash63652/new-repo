@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "new code has/have been updated" > /tmp/akash/code.txt
+echo "very new code" > /tmp/akash/code.txt
 timedatectl >/tmp/akash/journal
